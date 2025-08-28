@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-c1465c218e8d896c.js",
+      "static/chunks/fd9d1056-81f448b567f73d85.js",
+      "static/chunks/23-415322e7b5d00b42.js",
+      "static/chunks/main-app-b0d45e34a07cf4a8.js",
+      "static/chunks/app/_not-found/page-544b5679db404e25.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-c1465c218e8d896c.js",
+      "static/chunks/fd9d1056-81f448b567f73d85.js",
+      "static/chunks/23-415322e7b5d00b42.js",
+      "static/chunks/main-app-b0d45e34a07cf4a8.js",
+      "static/css/b15dc088dc1303e9.css",
+      "static/chunks/998-2626f58bf36668d0.js",
+      "static/chunks/231-6bb26a293770c79f.js",
+      "static/chunks/app/layout-49e777e46cc97ae3.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack-c1465c218e8d896c.js",
+      "static/chunks/fd9d1056-81f448b567f73d85.js",
+      "static/chunks/23-415322e7b5d00b42.js",
+      "static/chunks/main-app-b0d45e34a07cf4a8.js",
+      "static/chunks/998-2626f58bf36668d0.js",
+      "static/chunks/app/login/page-7f5ad409005a8920.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-c1465c218e8d896c.js",
+      "static/chunks/fd9d1056-81f448b567f73d85.js",
+      "static/chunks/23-415322e7b5d00b42.js",
+      "static/chunks/main-app-b0d45e34a07cf4a8.js",
+      "static/chunks/app/page-ffc06cd4473239c6.js"
+    ],
+    "/properties/page": [
+      "static/chunks/webpack-c1465c218e8d896c.js",
+      "static/chunks/fd9d1056-81f448b567f73d85.js",
+      "static/chunks/23-415322e7b5d00b42.js",
+      "static/chunks/main-app-b0d45e34a07cf4a8.js",
+      "static/chunks/231-6bb26a293770c79f.js",
+      "static/chunks/app/properties/page-1b9fa34b417cf059.js"
+    ],
+    "/properties/[id]/page": [
+      "static/chunks/webpack-c1465c218e8d896c.js",
+      "static/chunks/fd9d1056-81f448b567f73d85.js",
+      "static/chunks/23-415322e7b5d00b42.js",
+      "static/chunks/main-app-b0d45e34a07cf4a8.js",
+      "static/chunks/998-2626f58bf36668d0.js",
+      "static/chunks/app/properties/[id]/page-f52745f679b393f4.js"
+    ]
+  }
+}
